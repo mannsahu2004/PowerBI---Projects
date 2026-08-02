@@ -45,19 +45,19 @@ Built a star-schema model connecting Sales Data and Returns Data (fact tables) t
 
 ## 📈 Dashboard Preview
 
-![Exec Dashboard](screenshots/1.Exec%20Dashboard.png)
+![Exec Dashboard](../screenshots/1.Exec%20Dashboard.png)
 
 | Map View | Product Detail |
 |---|---|
-| ![Map](screenshots/2.Map.png) | ![Product Detail](screenshots/3.Product%20Detail.png) |
+| ![Map](../screenshots/2.Map.png) | ![Product Detail](../screenshots/3.Product%20Detail.png) |
 
 | Customer Detail | Category Tooltip |
 |---|---|
-| ![Customer Detail](screenshots/4.Customer%20Detail.png) | ![Category Tooltip](screenshots/5.Category%20Tooltip.png) |
+| ![Customer Detail](../screenshots/4.Customer%20Detail.png) | ![Category Tooltip](../screenshots/5.Category%20Tooltip.png) |
 
 | Decomposition Tree | Key Influencers |
 |---|---|
-| ![Decomposition Tree](screenshots/6.Decomposition%20Tree.png) | ![Key Influencers](screenshots/7.Key%20Influencers.png) |
+| ![Decomposition Tree](../screenshots/6.Decomposition%20Tree.png) | ![Key Influencers](../screenshots/7.Key%20Influencers.png) |
 
 ## 📁 Repository Structure
 
@@ -101,3 +101,4 @@ While the project structure follows the course, all data transformations, DAX me
 
 ---
 ⭐ If you found this project useful, feel free to star the repo!
+Done
