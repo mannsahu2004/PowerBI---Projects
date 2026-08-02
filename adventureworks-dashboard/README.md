@@ -1,8 +1,3 @@
-bash
-
-cat /mnt/user-data/outputs/adventureworks-dashboard/README.md
-Output
-
 # 📊 AdventureWorks Sales & Business Intelligence Dashboard
 
 An end-to-end Power BI project built to analyze sales, revenue, returns, and customer performance for **AdventureWorks**, a global manufacturer of cycling equipment and accessories.
